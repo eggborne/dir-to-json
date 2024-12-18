@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "project-visualizer.js",
   "bin": {
-    "pvis": "./project-visualizer.js"
+    "pvis": "project-visualizer.js"
   },
   "scripts": {
     "start": "node project-visualizer.js"
@@ -22,5 +22,8 @@
   "author": "mike@mikedonovan.dev",
   "license": "ISC",
   "homepage": "https://github.com/eggborne/project-visualizer#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ignore": "^6.0.2"
+  }
 }
