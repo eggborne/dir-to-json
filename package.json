@@ -1,0 +1,26 @@
+{
+  "name": "project-visualizer",
+  "version": "1.0.1",
+  "main": "project-visualizer.js",
+  "bin": {
+    "pvis": "./project-visualizer.js"
+  },
+  "scripts": {
+    "start": "node project-visualizer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggborne/project-visualizer.git"
+  },
+  "keywords": [
+    "project",
+    "visualizer",
+    "directory",
+    "structure",
+    "CLI"
+  ],
+  "author": "mike@mikedonovan.dev",
+  "license": "ISC",
+  "homepage": "https://github.com/eggborne/project-visualizer#readme",
+  "description": ""
+}
