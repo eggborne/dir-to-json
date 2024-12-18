@@ -1,6 +1,6 @@
 {
   "name": "project-visualizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "project-visualizer.js",
   "bin": {
     "pvis": "project-visualizer.js"
